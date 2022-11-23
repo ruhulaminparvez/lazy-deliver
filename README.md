@@ -36,7 +36,7 @@ LazyDeliver is a delivery service based full-stack website built with React.js, 
 ![Home Page](./Assets/1.png)
 
 ##### Login Page
--![Login Page](./Assets/5.png)
+![Login Page](./Assets/5.png)
 
 ##### Services
 ![Services](./Assets/2.png)
